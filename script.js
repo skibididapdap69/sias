@@ -17,5 +17,5 @@ btncourse.addEventListener("click",(e)=>{
 })
 btnenroll.addEventListener("click",(e)=>{
     e.preventDefault();
-    window.location.href="index.html";
+    window.location.href="mainform.html";
 })
